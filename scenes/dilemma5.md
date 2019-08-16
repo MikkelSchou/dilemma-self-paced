@@ -21,7 +21,7 @@ I know that my own positive experience with Daniel from the past could impact my
 - self-development-2: 0.9
 - self-development-3: 0.8
 - self-development-1: 0.9
-- accountability3: 0.8
+- accountability-3: 0.8
 
 # Feedback
 It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
@@ -40,7 +40,7 @@ I need to get a better understanding of Daniel's overall performance and how Dan
 - self-development-2: 0.9
 - self-development-3: 0.6
 - self-development-1: 0.5
-- accountability3: 0.6
+- accountability-3: 0.6
 
 # Feedback
 It's good that you're keeping an open mind instead of jumping to conclusions and want to consider Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. Getting input from other stakeholders is a good way to challenge your own biases as your own positive experience with Daniel from the past may impact your judgment of him and the entire situation
@@ -54,18 +54,6 @@ This is a dilemma about being aware of own biases, others' emotions while also p
 Even if Daniel is performing poorly we're all responsible for giving him timely and sincere feedback to point him in the right direction. I therefore have a conversation with Daniel to see how things are going and if he is struggling somewhere. I also meet with the team members who complained about Daniel to start a dialogue about their own behaviour. I use this situation as an opportunity to coach these team members on how to act more constructively should they experience problems with a colleagues' performance another time. They could have offered feedback directly to Daniel themselves before coming to me, and offered their help directly to Daniel on how he could improve his attention to detail.
 
 # Variables
-- ambiguity-q4: 0.2
-- ambiguity-q3: 0.4
-- instill-trust-q2: 0.4
-- self-developer-q2: 0.1
-- self-developer-q3: 0.4
-- self-developer-q1: 0.7
-- collaborate-q2: 0.8
-- coach-q2: 0.9
-- coach-q1: 1.0
-- team-builder-q4: 0.8
-- strategic-q1: 0.3
-- accountable-q3: 0.2
 
 - adaptiveness-1: 0.2
 - adaptiveness-3: 0.4
