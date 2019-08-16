@@ -16,15 +16,12 @@ What do you do?
 I understand that my Danish team members are not comfortable speaking English all the time. Therefore, I tell my team that going forward everyone will only have to communicate in English during team meetings, in shared emails and conversations that Olga participates in. When Zoe is not involved, they are free to communicate in the language they prefer.
 
 # Variables
-- instill-trust-q3: 0.1
-- self-developer-q1: 0.3
-- collaborate-q1: 0.3
-- collaborate-q2: 0.3
-- team-builder-q2: 0.1
-- team-builder-q3: 0.2
-- team-builder-q4: 0.2
-- strategic-q2: 0.9
-- accountable-q1: 0.1
+- trust-3: 0.1
+- self-development-1: 0.3
+- team-building-2: 0.1
+- team-building-3: 0.2
+- team-building-1: 0.2
+- accountability-1: 0.1
 
 # Feedback
 
@@ -38,15 +35,13 @@ This is a dilemma of balancing the emotions of others on the one hand, and creat
 I worry that forcing my Danish team members to speak English will have a negative infuence on the team spirit and make them participate less in shared discussions. Instead, I try to set a good example myself by always speaking English, but I allow my Danish team members to decide for themselves which language they communicate in. Over time I am sure they will all feel more comfortable speaking to each other in English.
 
 # Variables
-- instill-trust-q3: 0.6
-- self-developer-q1: 0.3
-- collaborate-q1: 0.3
-- collaborate-q2: 0.3
-- team-builder-q2: 0.3
-- team-builder-q3: 0.4
-- team-builder-q4: 0.5
-- strategic-q2: 0.1
-- accountable-q1: 0.1
+
+- trust-3: 0.6
+- self-development-1: 0.3
+- team-building-2: 0.3
+- team-building-3: 0.3
+- team-building-1: 0.4
+- accountability-1: 0.1
 
 
 # Feedback
@@ -61,15 +56,13 @@ This is a dilemma of balancing the emotions of others on the one hand, and creat
 The only way to include Zoe in the team is to make all team members speak English, although my Danish team members might not be happy with this decision in the short term. If I make English optional or dependent on Zoe's presence, my Danish team members are likely to avoid Zoe altogether. I contact HR to get support in making this happen in the best way possible. I am convinced that this is in the long term interest of my team's wellbeing. 
 
 # Variables
-- instill-trust-q3: 1.0
-- self-developer-q1: 0.8
-- collaborate-q1: 0.8
-- collaborate-q2: 1.0
-- team-builder-q2: 1.0
-- team-builder-q3: 0.8
-- team-builder-q4: 0.7
-- strategic-q2: 0.9
-- accountable-q1: 1.0
+
+- trust-3: 1.0
+- self-development-1: 0.8
+- team-building-2: 0.8
+- team-building-3: 0.7
+- team-building-1: 1.0
+- accountability-1: 1.0
 
 # Feedback
 This is a great choice which signals that you are committed to creating a truly collaborative team. You're probably right that your Danish team members might not be happy with this decision in the short term, but as they adjust to speaking a new language it will eventually  
