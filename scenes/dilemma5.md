@@ -15,14 +15,13 @@ How do address your employees' complaints?
 I know that my own positive experience with Daniel from the past could impact my judgment of him, so I set up a meeting with HR to plan the best way forward. Before I approach Daniel, I need to explore if there could be some underlying reasons why my team members would complain about his performance. 
 
 # Variables
-- ambiguity-q4: 1.0
-- ambiguity-q3: 0.8
-- instill-trust-q2: 0.6
-- self-developer-q2: 0.9
-- self-developer-q3: 0.8
-- self-developer-q1: 0.9
-- strategic-q1: 0.8
-- accountable-q3: 0.8
+- adaptiveness-1: 1.0
+- adaptiveness-3: 0.8
+- trust-2: 0.6
+- self-development-2: 0.9
+- self-development-3: 0.8
+- self-development-1: 0.9
+- accountability3: 0.8
 
 # Feedback
 It's great that you're keeping an open mind here. You're absolutely right to consider alternative reasons for your employees' complaints over Daniel's performance. It also makes sense to include HR for initial sparring around how to approach the issue. 
@@ -34,14 +33,14 @@ This is a dilemma about being aware of own biases, others' emotions while also p
 I need to get a better understanding of Daniel's overall performance and how Daniel interacts with the team. I plan to talk to Daniel, as well as a few stakeholders outside of my team who have worked with him to get their view on his skills. Once I have covered multiple views on his performance I will better understand if he is performing poorly. If that is the case, I will let him know the areas where I expect to see an improvement moving forward.
 
 # Variables
-- ambiguity-q4: 0.6
-- ambiguity-q3: 0.6
-- instill-trust-q2: 0.4
-- self-developer-q2: 0.9
-- self-developer-q3: 0.6
-- self-developer-q1: 0.5
-- strategic-q1: 0.4
-- accountable-q3: 0.6
+
+- adaptiveness-1: 0.6
+- adaptiveness-3: 0.6
+- trust-2: 0.4
+- self-development-2: 0.9
+- self-development-3: 0.6
+- self-development-1: 0.5
+- accountability3: 0.6
 
 # Feedback
 It's good that you're keeping an open mind instead of jumping to conclusions and want to consider Daniel's performance more broadly and from different perspectives before you raise the issue of poor performance with Daniel directly. Getting input from other stakeholders is a good way to challenge your own biases as your own positive experience with Daniel from the past may impact your judgment of him and the entire situation
@@ -68,6 +67,16 @@ Even if Daniel is performing poorly we're all responsible for giving him timely 
 - strategic-q1: 0.3
 - accountable-q3: 0.2
 
+- adaptiveness-1: 0.2
+- adaptiveness-3: 0.4
+- trust-2: 0.4
+- self-development-2: 0.1
+- self-development-3: 0.4
+- self-development-1: 0.7
+- accountability-3: 0.2
+- motivation-1: 0.9
+- motivation-2: 1.0
+- team-building-1: 0.8
 
 
 
